@@ -1,10 +1,52 @@
-# Unreal Engine
+# Built-in binaries and cache folders
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-.vscode/
-*.VC.db
-*.sln
-Content/DetectiveStart/TGA Textures.zip
+Build/
 
+# Ignore platform-specific build folders (especially Android builds)
+Build/Android/
+Build/IOS/
+
+# Ignore UE autosaves and backups
+*.sdf
+*.suo
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Ignore log files
+*.log
+
+# Ignore config autosaves and local preferences
+*.user
+*.userprefs
+
+# Mac/Linux system junk
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore uproject autosaves
+*.autosave
+
+# Unreal temporary files
+*.tmp
+
+# Ignore generated .xcodeproj files
+*.xcworkspace
+*.xcodeproj
+
+# Crash dumps
+*.dmp
+
+# UFS Cache
+*.ufsc
+
+# Ignore generated plugin project files
+.vscode/
+
+# Ignore compiled shaders
+*.ushaderprecache
