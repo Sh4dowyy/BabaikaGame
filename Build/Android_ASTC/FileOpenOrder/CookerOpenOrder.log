@@ -1,0 +1,1662 @@
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 0
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 1
+"../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimCurveCompressionSettings.uasset" 2
+"../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimCurveCompressionSettings.uexp" 3
+"../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimBoneCompressionSettings.uasset" 4
+"../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimBoneCompressionSettings.uexp" 5
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 6
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 7
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 8
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 9
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 10
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 11
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 12
+"../../../Engine/Content/EngineSounds/Master.uasset" 13
+"../../../Engine/Content/EngineSounds/Master.uexp" 14
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 15
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 16
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 17
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 18
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 19
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 20
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 21
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 22
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 23
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 24
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 25
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 26
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 27
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 28
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 29
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 30
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 31
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 32
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 33
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 34
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 35
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 36
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 37
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 38
+"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uasset" 39
+"../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uexp" 40
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 41
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 42
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 43
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 44
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 45
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 46
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 47
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 48
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 49
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 50
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 51
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 52
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 53
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 54
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 55
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 56
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 57
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 58
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 59
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 60
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 61
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 62
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 63
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 64
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 65
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 66
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 67
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 68
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 69
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 70
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 71
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uasset" 72
+"../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/Materials/M_DynamicMeshComponentVtxColor.uexp" 73
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 74
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 75
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 76
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 77
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset" 78
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp" 79
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 80
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 81
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 82
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 83
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 84
+"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 85
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 86
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 87
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 88
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 89
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 90
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 91
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/Resources/ScrubHandleDown_Clamped.uasset" 92
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/Resources/ScrubHandleDown_Clamped.uexp" 93
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UsdPreviewSurface.uasset" 94
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UsdPreviewSurface.uexp" 95
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UniformEDF.uasset" 96
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UniformEDF.uexp" 97
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TranslucentBSDF.uasset" 98
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TranslucentBSDF.uexp" 99
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ThinFilmBSDF.uasset" 100
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ThinFilmBSDF.uexp" 101
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SurfaceUnlit.uasset" 102
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SurfaceUnlit.uexp" 103
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Surface.uasset" 104
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Surface.uexp" 105
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SubsurfaceBSDF.uasset" 106
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SubsurfaceBSDF.uexp" 107
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SheenBSDF.uasset" 108
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SheenBSDF.uexp" 109
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OrenNayarBSDF.uasset" 110
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OrenNayarBSDF.uexp" 111
+"../../../Engine/Plugins/Interchange/Assets/Content/Utilities/New_LUT.uasset" 112
+"../../../Engine/Plugins/Interchange/Assets/Content/Utilities/New_LUT.uexp" 113
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 114
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uexp" 115
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_Iridescence.uasset" 116
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_Iridescence.uexp" 117
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_StandardSurface.uasset" 118
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_StandardSurface.uexp" 119
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TransmissionSurface.uasset" 120
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TransmissionSurface.uexp" 121
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Translucent.uasset" 122
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Translucent.uexp" 123
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Opaque.uasset" 124
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Opaque.uexp" 125
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_MeasuredEDF.uasset" 126
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_MeasuredEDF.uexp" 127
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_GeneralizedSchlickBSDF.uasset" 128
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_GeneralizedSchlickBSDF.uexp" 129
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_DielectricBSDF.uasset" 130
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_DielectricBSDF.uexp" 131
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConicalEDF.uasset" 132
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConicalEDF.uexp" 133
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConductorBSDF.uasset" 134
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConductorBSDF.uexp" 135
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_BurleyDiffuseBSDF.uasset" 136
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_BurleyDiffuseBSDF.uexp" 137
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AnisotropicVDF.uasset" 138
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AnisotropicVDF.uexp" 139
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AbsorptionVDF.uasset" 140
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AbsorptionVDF.uexp" 141
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 142
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 143
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 144
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 145
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 146
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 148
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 149
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 150
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 151
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 152
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 153
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 154
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 155
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 156
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 157
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 158
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 160
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 161
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 162
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 163
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 164
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 165
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 166
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 167
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 168
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 169
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 170
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 171
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 172
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 173
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 174
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 175
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 176
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 177
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 179
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 180
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 181
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 182
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 183
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 184
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 185
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 186
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 187
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 188
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 189
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 190
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 191
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 192
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 193
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 194
+"../../../Engine/Content/EngineResources/Black.uasset" 195
+"../../../Engine/Content/EngineResources/Black.uexp" 196
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 197
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 198
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 199
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 200
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 201
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 202
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 203
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 204
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 205
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 206
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 207
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 208
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 209
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 210
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 211
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 212
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 213
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 214
+"../../../Engine/Content/EngineMaterials/WeightMapArrayPlaceholderTexture.uasset" 215
+"../../../Engine/Content/EngineMaterials/WeightMapArrayPlaceholderTexture.uexp" 216
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 217
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 218
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 219
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 220
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 221
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 222
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 223
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 224
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 226
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 227
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 228
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 229
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 230
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uasset" 231
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uexp" 232
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 233
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 234
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 235
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 236
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 237
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 238
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 239
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 240
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 241
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 242
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 243
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 244
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 245
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 246
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 247
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 248
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 249
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 250
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 251
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 252
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 253
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 254
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 255
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 256
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 257
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 258
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 259
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 260
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 261
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 262
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 264
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 265
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 266
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 267
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 268
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 269
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 270
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 271
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_vec2_128x128x64.uasset" 272
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_vec2_128x128x64.uexp" 273
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x64.uasset" 274
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x64.uexp" 275
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 276
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 277
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 278
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 279
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 280
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 281
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 282
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 283
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 284
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 285
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 286
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 287
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 288
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 289
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 290
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 291
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 292
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 293
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 294
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 295
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 296
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 297
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 298
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 299
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 300
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 301
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 302
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 303
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 304
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 305
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 306
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 307
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 308
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 309
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 310
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 311
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 312
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 313
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 314
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 315
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 316
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 317
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 318
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 319
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 320
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 321
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 322
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 323
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 324
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 325
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 326
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 327
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 328
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 329
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 330
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 331
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 332
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 333
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 334
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 335
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 336
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 337
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 338
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_White_srgb.uasset" 339
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_White_srgb.uexp" 340
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 341
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_BaseColor.uexp" 342
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_RotateV2.uasset" 343
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_RotateV2.uexp" 344
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_TransformUVs.uasset" 345
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_TransformUVs.uexp" 346
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_Unlit_Body.uasset" 347
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_Unlit_Body.uexp" 348
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_Unlit.uasset" 349
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_Unlit.uexp" 350
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Opaque.uasset" 351
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Opaque.uexp" 352
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Mask_DS.uasset" 353
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Mask_DS.uexp" 354
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Mask.uasset" 355
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Mask.uexp" 356
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Blend_DS.uasset" 357
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Blend_DS.uexp" 358
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Blend.uasset" 359
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Blend.uexp" 360
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 362
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 363
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 365
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uexp" 366
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uasset" 367
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Temporal_Blur.uexp" 368
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Specular.uasset" 369
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Specular.uexp" 370
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_Anisotropy_Direction_Linear.uasset" 371
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_Anisotropy_Direction_Linear.uexp" 372
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_SpecularAnisotropy.uasset" 373
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_SpecularAnisotropy.uexp" 374
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_White_Linear.uasset" 375
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_White_Linear.uexp" 376
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uasset" 377
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_MetallicRoughness.uexp" 378
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_Generic_N.uasset" 379
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_Generic_N.uexp" 380
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_ScaleNormal.uasset" 381
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_ScaleNormal.uexp" 382
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uasset" 383
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Fresnel_DS.uexp" 384
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Iridescence.uasset" 385
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Iridescence.uexp" 386
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Occlusion.uasset" 387
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Occlusion.uexp" 388
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_IOR.uasset" 389
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_IOR.uexp" 390
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Transmission.uasset" 391
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Transmission.uexp" 392
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uasset" 393
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_RotateNormals_TS.uexp" 394
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Normals.uasset" 395
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Normals.uexp" 396
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_Transmission_Body.uasset" 397
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_Transmission_Body.uexp" 398
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_Transmission.uasset" 399
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_Transmission.uexp" 400
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Transmission_DS.uasset" 401
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Transmission_DS.uexp" 402
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Transmission.uasset" 403
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Transmission.uexp" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uexp" 406
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uasset" 407
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_DiffuseSpecGloss.uexp" 408
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Emissive.uasset" 409
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Emissive.uexp" 410
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uasset" 411
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_PerceivedBrightness.uexp" 412
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uasset" 413
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness.uexp" 414
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_MaxComponentValue.uasset" 415
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_MaxComponentValue.uexp" 416
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_SpecularGlossiness_Body.uasset" 417
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_SpecularGlossiness_Body.uexp" 418
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_SpecularGlossiness.uasset" 419
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_SpecularGlossiness.uexp" 420
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS.uasset" 421
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS.uexp" 422
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque.uasset" 423
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque.uexp" 424
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS.uasset" 425
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS.uexp" 426
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask.uasset" 427
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Mask.uexp" 428
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS.uasset" 429
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS.uexp" 430
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend.uasset" 431
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_SpecularGlossiness_Blend.uexp" 432
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Sheen.uasset" 433
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Sheen.uexp" 434
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_Sheen_Body.uasset" 435
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_Sheen_Body.uexp" 436
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_Sheen.uasset" 437
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_Sheen.uexp" 438
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Opaque_DS.uasset" 439
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Opaque_DS.uexp" 440
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Opaque.uasset" 441
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Opaque.uexp" 442
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Mask_DS.uasset" 443
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Mask_DS.uexp" 444
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Mask.uasset" 445
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Mask.uexp" 446
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Blend_DS.uasset" 447
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Blend_DS.uexp" 448
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Blend.uasset" 449
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Sheen_Blend.uexp" 450
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_Default_Body.uasset" 451
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_Default_Body.uexp" 452
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset" 453
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uexp" 454
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Mask_DS.uasset" 455
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Mask_DS.uexp" 456
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Mask.uasset" 457
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Mask.uexp" 458
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Blend_DS.uasset" 459
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Blend_DS.uexp" 460
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Blend.uasset" 461
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Blend.uexp" 462
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 463
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uexp" 464
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Clearcoat.uasset" 465
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_Clearcoat.uexp" 466
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_ClearCoat_Body.uasset" 467
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialBodies/MF_ClearCoat_Body.uexp" 468
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_ClearCoat.uasset" 469
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/M_ClearCoat.uexp" 470
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS.uasset" 471
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS.uexp" 472
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque.uasset" 473
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Opaque.uexp" 474
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Mask_DS.uasset" 475
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Mask_DS.uexp" 476
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Mask.uasset" 477
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Mask.uexp" 478
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Blend_DS.uasset" 479
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Blend_DS.uexp" 480
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Blend.uasset" 481
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_ClearCoat_Blend.uexp" 482
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 483
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 484
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 485
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 486
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 487
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 488
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 489
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 490
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 491
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 492
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 493
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 494
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 495
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 496
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 497
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 498
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 499
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 500
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 501
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudMask.ubulk" 502
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudMask.uasset" 503
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudMask.uexp" 504
+"../../../Engine/Content/EngineSky/VolumetricClouds/VT_Lightning.uasset" 505
+"../../../Engine/Content/EngineSky/VolumetricClouds/VT_Lightning.uexp" 506
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_Profile_08.ubulk" 507
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_Profile_08.uasset" 508
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_Profile_08.uexp" 509
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 510
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 511
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Units/Km-to-Cm.uasset" 512
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Units/Km-to-Cm.uexp" 513
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 514
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 515
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudPattern.ubulk" 516
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudPattern.uasset" 517
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudPattern.uexp" 518
+"../../../Engine/Content/EngineSky/VolumetricClouds/VT_PerlinWorley_Balanced.uasset" 519
+"../../../Engine/Content/EngineSky/VolumetricClouds/VT_PerlinWorley_Balanced.uexp" 520
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 521
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 522
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 523
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 524
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 525
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 526
+"../../../Engine/Content/EngineMaterials/LTC/Sheen_LTC.uasset" 527
+"../../../Engine/Content/EngineMaterials/LTC/Sheen_LTC.uexp" 528
+"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCMat.uasset" 529
+"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCMat.uexp" 530
+"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCAmp.uasset" 531
+"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCAmp.uexp" 532
+"../../../Engine/Content/EngineMaterials/EnergyConservation/Sheen_Energy.uasset" 533
+"../../../Engine/Content/EngineMaterials/EnergyConservation/Sheen_Energy.uexp" 534
+"../../../Engine/Content/EngineMaterials/EnergyConservation/SheenLegacy_Energy.uasset" 535
+"../../../Engine/Content/EngineMaterials/EnergyConservation/SheenLegacy_Energy.uexp" 536
+"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_TransmissionEnergyArray.uasset" 537
+"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_TransmissionEnergyArray.uexp" 538
+"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_ReflectionEnergy.uasset" 539
+"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_ReflectionEnergy.uexp" 540
+"../../../Engine/Content/EngineMaterials/EnergyConservation/Diffuse_Energy.uasset" 541
+"../../../Engine/Content/EngineMaterials/EnergyConservation/Diffuse_Energy.uexp" 542
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 543
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 544
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 545
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 546
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 547
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 548
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 549
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 550
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 551
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 552
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 553
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 554
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 555
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 556
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 557
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 558
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 559
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 560
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 561
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 562
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 563
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 564
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 565
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 566
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 567
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 568
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uasset" 569
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uexp" 570
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial.uasset" 571
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial.uexp" 572
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 573
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 574
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 575
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 576
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uasset" 577
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D.uexp" 578
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uasset" 579
+"../../../Engine/Content/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D.uexp" 580
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uasset" 581
+"../../../Engine/Content/EngineMaterials/Substrate/GLints2/AGlintTex2dArray2.uexp" 582
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uasset" 583
+"../../../Engine/Content/EngineMaterials/Substrate/GLints/AGlintTex2dArray.uexp" 584
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 585
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 586
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 587
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 588
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 589
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 590
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 591
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 592
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 593
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 594
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 595
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 596
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 597
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 598
+"../../../Engine/Content/BasicShapes/Cone.uasset" 599
+"../../../Engine/Content/BasicShapes/Cone.uexp" 600
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 601
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 602
+"../../../Engine/Content/BasicShapes/Plane.uasset" 603
+"../../../Engine/Content/BasicShapes/Plane.uexp" 604
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 605
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 606
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 607
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 608
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 609
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 610
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 611
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 612
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 613
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 614
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 615
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 616
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 617
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 618
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 619
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 620
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 621
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 622
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 623
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 624
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 625
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 626
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 627
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 628
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 629
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 630
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 631
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 632
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 633
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 634
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 635
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 636
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 637
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 638
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 639
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 640
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 641
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 642
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 643
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 644
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 645
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 646
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 647
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 648
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 649
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 650
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 651
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 652
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 653
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 654
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 655
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 656
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 657
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 658
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 659
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 660
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 661
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 662
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 663
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 664
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 665
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 666
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 667
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 668
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 669
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 670
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 671
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 672
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 673
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 674
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 675
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 676
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 677
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 678
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 679
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 680
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 681
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 682
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 683
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 684
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 685
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 686
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 687
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 688
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 689
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 690
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 691
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 692
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 693
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 694
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 695
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 696
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 697
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 698
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 699
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 700
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 701
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 702
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 703
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 704
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 705
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 706
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 707
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 708
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 709
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 710
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 711
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 712
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 713
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 714
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 715
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 716
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 717
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 718
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset" 719
+"../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uexp" 720
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 721
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 722
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 723
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 724
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/GeneratedRoundRect.uasset" 725
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/GeneratedRoundRect.uexp" 726
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset" 727
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uexp" 728
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_DotOutlined.uasset" 729
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_DotOutlined.uexp" 730
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR.uasset" 731
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR.uexp" 732
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialEnvelope_ADSR.uasset" 733
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialEnvelope_ADSR.uexp" 734
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_SingleLine_Smooth.uasset" 735
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_SingleLine_Smooth.uexp" 736
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_AngleGradient.uasset" 737
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_AngleGradient.uexp" 738
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_3Color.uasset" 739
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_3Color.uexp" 740
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialKnob.uasset" 741
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialKnob.uexp" 742
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialKnob.uasset" 743
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialKnob.uexp" 744
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_Lines.uasset" 745
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_Lines.uexp" 746
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialMeter.uasset" 747
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialMeter.uexp" 748
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialMeter.uasset" 749
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialMeter.uexp" 750
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialRoundedSlider.uasset" 751
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialRoundedSlider.uexp" 752
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialRoundedSlider.uasset" 753
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialRoundedSlider.uexp" 754
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_SingleLine.uasset" 755
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/Functions/MF_SingleLine.uexp" 756
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialToggleButton.uasset" 757
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialToggleButton.uexp" 758
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialToggleButton.uasset" 759
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/MI_AudioMaterialToggleButton.uexp" 760
+"../../../Engine/Content/EngineResources/LandscapeVisibilityLayerInfo.uasset" 761
+"../../../Engine/Content/EngineResources/LandscapeVisibilityLayerInfo.uexp" 762
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 763
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uexp" 764
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.ubulk" 765
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 766
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uexp" 767
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 768
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 769
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.ubulk" 770
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 771
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uexp" 772
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.ubulk" 773
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 774
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uexp" 775
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.ubulk" 776
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 777
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uexp" 778
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 779
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uexp" 780
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 781
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uexp" 782
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.ubulk" 783
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 784
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uexp" 785
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 786
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 787
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 788
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uexp" 789
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 790
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uexp" 791
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.ubulk" 792
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 793
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uexp" 794
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 795
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uexp" 796
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.ubulk" 797
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 798
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uexp" 799
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 800
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uexp" 801
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 802
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uexp" 803
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 804
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uexp" 805
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 806
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uexp" 807
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 808
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uexp" 809
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.ubulk" 810
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 811
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uexp" 812
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_ComputeNormalsTangents.uasset" 813
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_ComputeNormalsTangents.uexp" 814
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth.uasset" 815
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth.uexp" 816
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth_PositionOnly.uasset" 817
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth_PositionOnly.uexp" 818
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth.uasset" 819
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth.uexp" 820
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals.uasset" 821
+"../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals.uexp" 822
+"../../../Engine/Content/BasicShapes/Cube.uasset" 823
+"../../../Engine/Content/BasicShapes/Cube.uexp" 824
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base_baseColor.ubulk" 825
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base_baseColor.uasset" 826
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base_baseColor.uexp" 827
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base_normal.ubulk" 828
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base_normal.uasset" 829
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base_normal.uexp" 830
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base_metallicRoughness.ubulk" 831
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base_metallicRoughness.uasset" 832
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base_metallicRoughness.uexp" 833
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Opaque_DS.uasset" 834
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Opaque_DS.uexp" 835
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base.uasset" 836
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_base.uexp" 837
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Loft_001_Sofa_base_0.uasset" 838
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Loft_001_Sofa_base_0.uexp" 839
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_0.ubulk" 840
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_0.uasset" 841
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_0.uexp" 842
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_1.ubulk" 843
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_1.uasset" 844
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_1.uexp" 845
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_2.ubulk" 846
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_2.uasset" 847
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_2.uexp" 848
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_3.ubulk" 849
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_3.uasset" 850
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/bed_texture_3.uexp" 851
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Opaque.uasset" 852
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Default_Opaque.uexp" 853
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/M_Bed.uasset" 854
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/M_Bed.uexp" 855
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Bed.uasset" 856
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Bed.uexp" 857
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 858
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 859
+"../../../Engine/Content/EditorMaterials/PersonaSky.uasset" 860
+"../../../Engine/Content/EditorMaterials/PersonaSky.uexp" 861
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow_ORM.ubulk" 862
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow_ORM.uasset" 863
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow_ORM.uexp" 864
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow_BaseColor.ubulk" 865
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow_BaseColor.uasset" 866
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow_BaseColor.uexp" 867
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow_Normal.ubulk" 868
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow_Normal.uasset" 869
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow_Normal.uexp" 870
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow.uasset" 871
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/M_PiIlow.uexp" 872
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Object_6.uasset" 873
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Object_6.uexp" 874
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans_metallicRoughness.ubulk" 875
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans_metallicRoughness.uasset" 876
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans_metallicRoughness.uexp" 877
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans_baseColor.ubulk" 878
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans_baseColor.uasset" 879
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans_baseColor.uexp" 880
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans_normal.ubulk" 881
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans_normal.uasset" 882
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans_normal.uexp" 883
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans.uasset" 884
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cans.uexp" 885
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Object_8.uasset" 886
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Object_8.uexp" 887
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath_metallicRoughness.ubulk" 888
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath_metallicRoughness.uasset" 889
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath_metallicRoughness.uexp" 890
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath_normal.ubulk" 891
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath_normal.uasset" 892
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath_normal.uexp" 893
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath_baseColor.ubulk" 894
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath_baseColor.uasset" 895
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath_baseColor.uexp" 896
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath.uasset" 897
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath.uexp" 898
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath1.uasset" 899
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/bath1.uexp" 900
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 901
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uexp" 902
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/M_Structure.uasset" 903
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/M_Structure.uexp" 904
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Ceiling_N.ubulk" 905
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Ceiling_N.uasset" 906
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Ceiling_N.uexp" 907
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Ceiling_M.ubulk" 908
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Ceiling_M.uasset" 909
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Ceiling_M.uexp" 910
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Ceiling_D.ubulk" 911
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Ceiling_D.uasset" 912
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Ceiling_D.uexp" 913
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Ceiling.uasset" 914
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Ceiling.uexp" 915
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Ceiling.uasset" 916
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Ceiling.uexp" 917
+"../../../Engine/Content/EngineLightProfiles/Complex_IES.uasset" 918
+"../../../Engine/Content/EngineLightProfiles/Complex_IES.uexp" 919
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Chair_B_N.ubulk" 920
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Chair_B_N.uasset" 921
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Chair_B_N.uexp" 922
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Chair_B_D.ubulk" 923
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Chair_B_D.uasset" 924
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Chair_B_D.uexp" 925
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/M_Props.uasset" 926
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/M_Props.uexp" 927
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Chair_B_M.ubulk" 928
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Chair_B_M.uasset" 929
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Chair_B_M.uexp" 930
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Chair_B.uasset" 931
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Chair_B.uexp" 932
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Chair_B.uasset" 933
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Chair_B.uexp" 934
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Filing_Cabinet_A_M.ubulk" 935
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Filing_Cabinet_A_M.uasset" 936
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Filing_Cabinet_A_M.uexp" 937
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Filing_Cabinet_A_N.ubulk" 938
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Filing_Cabinet_A_N.uasset" 939
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Filing_Cabinet_A_N.uexp" 940
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Filing_Cabinet_A_D.ubulk" 941
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Filing_Cabinet_A_D.uasset" 942
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Filing_Cabinet_A_D.uexp" 943
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Filing_Cabinet_A.uasset" 944
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Filing_Cabinet_A.uexp" 945
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Filing_Cabinet_A.uasset" 946
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Filing_Cabinet_A.uexp" 947
+"../../../Engine/Content/EngineMaterials/NewBaseFlattenMaterial.uasset" 948
+"../../../Engine/Content/EngineMaterials/NewBaseFlattenMaterial.uexp" 949
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 950
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 951
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 952
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_JumpEnd.m.ubulk" 953
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_JumpEnd.uexp" 954
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_Run.uasset" 955
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_Run.m.ubulk" 956
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_Run.uexp" 957
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 958
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_JumpLoop.m.ubulk" 959
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_JumpLoop.uexp" 960
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_Idle.uasset" 961
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_Idle.m.ubulk" 962
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_Idle.uexp" 963
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 964
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_JumpStart.m.ubulk" 965
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_JumpStart.uexp" 966
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 967
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 968
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 969
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Animations/FirstPerson_AnimBP.uexp" 970
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_N.ubulk" 971
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_N.uasset" 972
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_N.uexp" 973
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_BN.ubulk" 974
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_BN.uasset" 975
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_BN.uexp" 976
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.ubulk" 977
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset" 978
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uexp" 979
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.ubulk" 980
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset" 981
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uexp" 982
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.ubulk" 983
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset" 984
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uexp" 985
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_Tan.ubulk" 986
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_Tan.uasset" 987
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_Tan.uexp" 988
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_BN.ubulk" 989
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_BN.uasset" 990
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_BN.uexp" 991
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_MSR_MSK.ubulk" 992
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_MSR_MSK.uasset" 993
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_MSR_MSK.uexp" 994
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_N.ubulk" 995
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_N.uasset" 996
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_N.uexp" 997
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_D.ubulk" 998
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_D.uasset" 999
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_01_D.uexp" 1000
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/ChromaticCurve.uasset" 1001
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/ChromaticCurve.uexp" 1002
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/CA_Mannequin.uasset" 1003
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/CA_Mannequin.uexp" 1004
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/MF_Diffraction.uasset" 1005
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/MF_Diffraction.uexp" 1006
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Shared/T_UE_Logo_M.uasset" 1007
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Shared/T_UE_Logo_M.uexp" 1008
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/MF_logo3layers.uasset" 1009
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/MF_logo3layers.uexp" 1010
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/ML_BaseColorFallOff.uasset" 1011
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Functions/ML_BaseColorFallOff.uexp" 1012
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/M_Mannequin.uasset" 1013
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/M_Mannequin.uexp" 1014
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01.uasset" 1015
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01.uexp" 1016
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.ubulk" 1017
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset" 1018
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uexp" 1019
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_MSR_MSK.ubulk" 1020
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_MSR_MSK.uasset" 1021
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_MSR_MSK.uexp" 1022
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_D.ubulk" 1023
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_D.uasset" 1024
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_D.uexp" 1025
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_Tan.ubulk" 1026
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_Tan.uasset" 1027
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Textures/Manny/T_Manny_02_Tan.uexp" 1028
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_02.uasset" 1029
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_02.uexp" 1030
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 1031
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 1032
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 1033
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 1034
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset" 1035
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uexp" 1036
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPerson/Blueprints/BPI_Interact.uasset" 1037
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPerson/Blueprints/BPI_Interact.uexp" 1038
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 1039
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 1040
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1041
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 1042
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Textures/UE4_Mannequin__normals.ubulk" 1043
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 1044
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Textures/UE4_Mannequin__normals.uexp" 1045
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 1046
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1047
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 1048
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1049
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 1050
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1051
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1052
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Textures/UE4_LOGO_CARD.ubulk" 1053
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 1054
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Textures/UE4_LOGO_CARD.uexp" 1055
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1056
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 1057
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1058
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1059
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1060
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1061
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1062
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1063
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1064
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1065
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1066
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1067
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1068
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1069
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1070
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1071
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1072
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1073
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 1074
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Materials/M_UE4Man_Body.uexp" 1075
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 1076
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 1077
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 1078
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uexp" 1079
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1080
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 1081
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1082
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1083
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1084
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1085
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1086
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1087
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1088
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1089
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1090
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1091
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 1092
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 1093
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1094
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1095
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1096
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1097
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1098
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1099
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1100
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1101
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Textures/T_FPGun_M.ubulk" 1102
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 1103
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Textures/T_FPGun_M.uexp" 1104
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Textures/T_FPGun_N.ubulk" 1105
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 1106
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Textures/T_FPGun_N.uexp" 1107
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 1108
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Materials/M_FPGun.uexp" 1109
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 1110
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/FPWeapon/Mesh/SK_FPGun.uexp" 1111
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Blueprints/FirstPersonCharacter.uasset" 1112
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Blueprints/FirstPersonCharacter.uexp" 1113
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPerson/Blueprints/BP_Teleport.uasset" 1114
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/FirstPerson/Blueprints/BP_Teleport.uexp" 1115
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Loft_002_Sofa_base_0.uasset" 1116
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Loft_002_Sofa_base_0.uexp" 1117
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Frames_D.ubulk" 1118
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Frames_D.uasset" 1119
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Frames_D.uexp" 1120
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Frames_N.ubulk" 1121
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Frames_N.uasset" 1122
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Frames_N.uexp" 1123
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Frames_M.ubulk" 1124
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Frames_M.uasset" 1125
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Frames_M.uexp" 1126
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Frames.uasset" 1127
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Frames.uexp" 1128
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Frame_A.uasset" 1129
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Frame_A.uexp" 1130
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Wall_D.ubulk" 1131
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Wall_D.uasset" 1132
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Wall_D.uexp" 1133
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Wall_N.ubulk" 1134
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Wall_N.uasset" 1135
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Wall_N.uexp" 1136
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Wall_M.ubulk" 1137
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Wall_M.uasset" 1138
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Wall_M.uexp" 1139
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Walls.uasset" 1140
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Walls.uexp" 1141
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Wall_A.uasset" 1142
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Wall_A.uexp" 1143
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 1144
+"../../../Engine/Content/BufferVisualization/BaseColor.uexp" 1145
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1146
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1147
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1148
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1149
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1150
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1151
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1152
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1153
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1154
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1155
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1156
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1157
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1158
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1159
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1160
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1161
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1162
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1163
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1164
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1165
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1166
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Books_Mug_M.ubulk" 1167
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Books_Mug_M.uasset" 1168
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Books_Mug_M.uexp" 1169
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Books_Mug_N.ubulk" 1170
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Books_Mug_N.uasset" 1171
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Books_Mug_N.uexp" 1172
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Books_Mug_D.ubulk" 1173
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Books_Mug_D.uasset" 1174
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Books_Mug_D.uexp" 1175
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Books_Mug.uasset" 1176
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Books_Mug.uexp" 1177
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Book_A.uasset" 1178
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Book_A.uexp" 1179
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Frame_B.uasset" 1180
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Frame_B.uexp" 1181
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows_baseColor.ubulk" 1182
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows_baseColor.uasset" 1183
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows_baseColor.uexp" 1184
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows_normal.ubulk" 1185
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows_normal.uasset" 1186
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows_normal.uexp" 1187
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows_metallicRoughness.ubulk" 1188
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows_metallicRoughness.uasset" 1189
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows_metallicRoughness.uexp" 1190
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows.uasset" 1191
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_pillows.uexp" 1192
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/rag_001_Sofa_pillows_0.uasset" 1193
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/rag_001_Sofa_pillows_0.uexp" 1194
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats_normal.ubulk" 1195
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats_normal.uasset" 1196
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats_normal.uexp" 1197
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats_metallicRoughness.ubulk" 1198
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats_metallicRoughness.uasset" 1199
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats_metallicRoughness.uexp" 1200
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats_baseColor.ubulk" 1201
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats_baseColor.uasset" 1202
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats_baseColor.uexp" 1203
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats.uasset" 1204
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sofa_seats.uexp" 1205
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/left_cushion_Sofa_seats_0.uasset" 1206
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/left_cushion_Sofa_seats_0.uexp" 1207
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Coat_Hanger_D.ubulk" 1208
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Coat_Hanger_D.uasset" 1209
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Coat_Hanger_D.uexp" 1210
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Coat_Hanger_M.ubulk" 1211
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Coat_Hanger_M.uasset" 1212
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Coat_Hanger_M.uexp" 1213
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Coat_Hanger_N.ubulk" 1214
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Coat_Hanger_N.uasset" 1215
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Coat_Hanger_N.uexp" 1216
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Coat_Hanger.uasset" 1217
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Coat_Hanger.uexp" 1218
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Coat_Hanger.uasset" 1219
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Coat_Hanger.uexp" 1220
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Default_OBJ_baseColor.ubulk" 1221
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Default_OBJ_baseColor.uasset" 1222
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Default_OBJ_baseColor.uexp" 1223
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Default_OBJ.uasset" 1224
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Default_OBJ.uexp" 1225
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/biin.uasset" 1226
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/biin.uexp" 1227
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Walls_N.ubulk" 1228
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Walls_N.uasset" 1229
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Walls_N.uexp" 1230
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Walls_M.ubulk" 1231
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Walls_M.uasset" 1232
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Walls_M.uexp" 1233
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Walls_D.ubulk" 1234
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Walls_D.uasset" 1235
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Walls_D.uexp" 1236
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Walls.uasset" 1237
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Walls.uexp" 1238
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Wall_C.uasset" 1239
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Wall_C.uexp" 1240
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Windows_M.ubulk" 1241
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Windows_M.uasset" 1242
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Windows_M.uexp" 1243
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Windows_D.ubulk" 1244
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Windows_D.uasset" 1245
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Windows_D.uexp" 1246
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Windows_N.ubulk" 1247
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Windows_N.uasset" 1248
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Windows_N.uexp" 1249
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Windows.uasset" 1250
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Windows.uexp" 1251
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Window.uasset" 1252
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Window.uexp" 1253
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/material0_baseColor.uexp" 1254
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/material0_baseColor.ubulk" 1255
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/material0_baseColor.uasset" 1256
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/material0_baseColor.uptnl" 1257
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Opaque_DS.uasset" 1258
+"../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialInstances/MI_Unlit_Opaque_DS.uexp" 1259
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/material0.uasset" 1260
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/material0.uexp" 1261
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Model_material0_0_93ad31fb6062c5fe4a693050b94324ab.uasset" 1262
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Model_material0_0_93ad31fb6062c5fe4a693050b94324ab.uexp" 1263
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sink_metallicRoughness.ubulk" 1264
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sink_metallicRoughness.uasset" 1265
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sink_metallicRoughness.uexp" 1266
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sink_baseColor.ubulk" 1267
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sink_baseColor.uasset" 1268
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sink_baseColor.uexp" 1269
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sink.uasset" 1270
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Sink.uexp" 1271
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/sink1.uasset" 1272
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/sink1.uexp" 1273
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Towels_III_u1_v1_baseColor.uexp" 1274
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Towels_III_u1_v1_baseColor.ubulk" 1275
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Towels_III_u1_v1_baseColor.uasset" 1276
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Towels_III_u1_v1_baseColor.uptnl" 1277
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Towels_III_u1_v1.uasset" 1278
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Towels_III_u1_v1.uexp" 1279
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/towels.uasset" 1280
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/towels.uexp" 1281
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/cushion_2_001_Sofa_seats_0.uasset" 1282
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/cushion_2_001_Sofa_seats_0.uexp" 1283
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Tv_D.ubulk" 1284
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Tv_D.uasset" 1285
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Tv_D.uexp" 1286
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Tv_M.ubulk" 1287
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Tv_M.uasset" 1288
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Tv_M.uexp" 1289
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Tv_N.ubulk" 1290
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Tv_N.uasset" 1291
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Tv_N.uexp" 1292
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Tv.uasset" 1293
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Tv.uexp" 1294
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Tv.uasset" 1295
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Tv.uexp" 1296
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Loft_003_Sofa_base_0.uasset" 1297
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Loft_003_Sofa_base_0.uexp" 1298
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Wall_B.uasset" 1299
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Wall_B.uexp" 1300
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Window_B.uasset" 1301
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Window_B.uexp" 1302
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Textures/FirstPersonCrosshair.uasset" 1303
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Textures/FirstPersonCrosshair.uexp" 1304
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Blueprints/FirstPersonHUD.uasset" 1305
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Blueprints/FirstPersonHUD.uexp" 1306
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Blueprints/FirstPersonGameMode.uasset" 1307
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/FirstPerson/Blueprints/FirstPersonGameMode.uexp" 1308
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Standing_Lamp_D.ubulk" 1309
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Standing_Lamp_D.uasset" 1310
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Standing_Lamp_D.uexp" 1311
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Standing_Lamp_N.ubulk" 1312
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Standing_Lamp_N.uasset" 1313
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Standing_Lamp_N.uexp" 1314
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Standing_Lamp_M.ubulk" 1315
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Standing_Lamp_M.uasset" 1316
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Standing_Lamp_M.uexp" 1317
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Standing_Lamp.uasset" 1318
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Standing_Lamp.uexp" 1319
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Standing_Lamp.uasset" 1320
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Standing_Lamp.uexp" 1321
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Pipe_N.ubulk" 1322
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Pipe_N.uasset" 1323
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Pipe_N.uexp" 1324
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Pipe_D.ubulk" 1325
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Pipe_D.uasset" 1326
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Pipe_D.uexp" 1327
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Pipe_M.ubulk" 1328
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Pipe_M.uasset" 1329
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Pipe_M.uexp" 1330
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Pipe.uasset" 1331
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Pipe.uexp" 1332
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Pipe.uasset" 1333
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Pipe.uexp" 1334
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Ceiling_Light_Vent_N.ubulk" 1335
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Ceiling_Light_Vent_N.uasset" 1336
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Ceiling_Light_Vent_N.uexp" 1337
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Ceiling_Light_Vent_D.ubulk" 1338
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Ceiling_Light_Vent_D.uasset" 1339
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Ceiling_Light_Vent_D.uexp" 1340
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Ceiling_Light_Vent_M.ubulk" 1341
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Ceiling_Light_Vent_M.uasset" 1342
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Ceiling_Light_Vent_M.uexp" 1343
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Ceiling_Light_Vent.uasset" 1344
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Ceiling_Light_Vent.uexp" 1345
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Vent.uasset" 1346
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Vent.uexp" 1347
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Doormat_D.ubulk" 1348
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Doormat_D.uasset" 1349
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Doormat_D.uexp" 1350
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Doormat_M.ubulk" 1351
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Doormat_M.uasset" 1352
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Doormat_M.uexp" 1353
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Doormat_N.ubulk" 1354
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Doormat_N.uasset" 1355
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Doormat_N.uexp" 1356
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Doormat.uasset" 1357
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Doormat.uexp" 1358
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Doormat.uasset" 1359
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Doormat.uexp" 1360
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Toilet_metallicRoughness.ubulk" 1361
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Toilet_metallicRoughness.uasset" 1362
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Toilet_metallicRoughness.uexp" 1363
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Toilet_baseColor.ubulk" 1364
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Toilet_baseColor.uasset" 1365
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Toilet_baseColor.uexp" 1366
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Toilet.uasset" 1367
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Toilet.uexp" 1368
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/toilet1.uasset" 1369
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/toilet1.uexp" 1370
+"../../../Engine/Content/EngineLightProfiles/180Degree_IES.uasset" 1371
+"../../../Engine/Content/EngineLightProfiles/180Degree_IES.uexp" 1372
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cardboard_Box_D.ubulk" 1373
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cardboard_Box_D.uasset" 1374
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cardboard_Box_D.uexp" 1375
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cardboard_Box_M.ubulk" 1376
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cardboard_Box_M.uasset" 1377
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cardboard_Box_M.uexp" 1378
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cardboard_Box_N.ubulk" 1379
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cardboard_Box_N.uasset" 1380
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cardboard_Box_N.uexp" 1381
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Cardboard_Box.uasset" 1382
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Cardboard_Box.uexp" 1383
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Cardboard_Box.uasset" 1384
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Cardboard_Box.uexp" 1385
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cube_1_2_Sofa_base_0.uasset" 1386
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cube_1_2_Sofa_base_0.uexp" 1387
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Wall_D.uasset" 1388
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Wall_D.uexp" 1389
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Pocket_Doors_N.ubulk" 1390
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Pocket_Doors_N.uasset" 1391
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Pocket_Doors_N.uexp" 1392
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Pocket_Doors_M.ubulk" 1393
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Pocket_Doors_M.uasset" 1394
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Pocket_Doors_M.uexp" 1395
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Pocket_Doors_D.ubulk" 1396
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Pocket_Doors_D.uasset" 1397
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Pocket_Doors_D.uexp" 1398
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Pocket_Doors.uasset" 1399
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Pocket_Doors.uexp" 1400
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Pocket_Doors.uasset" 1401
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Pocket_Doors.uexp" 1402
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Desk_D.ubulk" 1403
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Desk_D.uasset" 1404
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Desk_D.uexp" 1405
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Desk_M.ubulk" 1406
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Desk_M.uasset" 1407
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Desk_M.uexp" 1408
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Desk_Lamp_M.ubulk" 1409
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Desk_Lamp_M.uasset" 1410
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Desk_Lamp_M.uexp" 1411
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Desk.uasset" 1412
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Desk.uexp" 1413
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Desk.uasset" 1414
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Desk.uexp" 1415
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Model_material0_0.uasset" 1416
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Model_material0_0.uexp" 1417
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Floor_N.ubulk" 1418
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Floor_N.uasset" 1419
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Floor_N.uexp" 1420
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Floor_D.ubulk" 1421
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Floor_D.uasset" 1422
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Floor_D.uexp" 1423
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Floor_M.ubulk" 1424
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Floor_M.uasset" 1425
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Floor_M.uexp" 1426
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Floor.uasset" 1427
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Floor.uexp" 1428
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Floor.uasset" 1429
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Floor.uexp" 1430
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_metallicRoughness.ubulk" 1431
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_metallicRoughness.uasset" 1432
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_metallicRoughness.uexp" 1433
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror.uasset" 1434
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror.uexp" 1435
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Mirror_0.uasset" 1436
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Mirror_0.uexp" 1437
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cigarettes_Ashtray_D.ubulk" 1438
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cigarettes_Ashtray_D.uasset" 1439
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cigarettes_Ashtray_D.uexp" 1440
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cigarettes_Ashtray_N.ubulk" 1441
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cigarettes_Ashtray_N.uasset" 1442
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cigarettes_Ashtray_N.uexp" 1443
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cigarettes_Ashtray_M.ubulk" 1444
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cigarettes_Ashtray_M.uasset" 1445
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Cigarettes_Ashtray_M.uexp" 1446
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Cigarettes_Ashtray.uasset" 1447
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Cigarettes_Ashtray.uexp" 1448
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Ashtray.uasset" 1449
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Ashtray.uexp" 1450
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Retopo_sofa_arm_001_Sofa_base_0.uasset" 1451
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Retopo_sofa_arm_001_Sofa_base_0.uexp" 1452
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Wall_C.uasset" 1453
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Wall_C.uexp" 1454
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Ceiling.uasset" 1455
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Ceiling.uexp" 1456
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/cusion_Sofa_pillows_0.uasset" 1457
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/cusion_Sofa_pillows_0.uexp" 1458
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/T_vjhledeaw_1K_N.ubulk" 1459
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/T_vjhledeaw_1K_N.uasset" 1460
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/T_vjhledeaw_1K_N.uexp" 1461
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/T_vjhledeaw_1K_ORM.ubulk" 1462
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/T_vjhledeaw_1K_ORM.uasset" 1463
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/T_vjhledeaw_1K_ORM.uexp" 1464
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/T_vjhledeaw_1K_B.ubulk" 1465
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/T_vjhledeaw_1K_B.uasset" 1466
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/T_vjhledeaw_1K_B.uexp" 1467
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/MI_vjhledeaw.uasset" 1468
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/MI_vjhledeaw.uexp" 1469
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/vjhledeaw_tier_3.uasset" 1470
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/vjhledeaw_tier_3.uexp" 1471
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Model_material0_0_e389cd8ce7abb70b9fb460766c641fac.uasset" 1472
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Model_material0_0_e389cd8ce7abb70b9fb460766c641fac.uexp" 1473
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Rug_N.ubulk" 1474
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Rug_N.uasset" 1475
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Rug_N.uexp" 1476
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Rug_M.ubulk" 1477
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Rug_M.uasset" 1478
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Rug_M.uexp" 1479
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Rug_D.ubulk" 1480
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Rug_D.uasset" 1481
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Rug_D.uexp" 1482
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Rug.uasset" 1483
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Rug.uexp" 1484
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Rug.uasset" 1485
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Rug.uexp" 1486
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cube_3_Sofa_pillows_0.uasset" 1487
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Cube_3_Sofa_pillows_0.uexp" 1488
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Calender_Clock_Pills_N.ubulk" 1489
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Calender_Clock_Pills_N.uasset" 1490
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Calender_Clock_Pills_N.uexp" 1491
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Calender_Clock_Pills_M.ubulk" 1492
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Calender_Clock_Pills_M.uasset" 1493
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Calender_Clock_Pills_M.uexp" 1494
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Calender_Clock_Pills_D.ubulk" 1495
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Calender_Clock_Pills_D.uasset" 1496
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Calender_Clock_Pills_D.uexp" 1497
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Calender_Clock_Pills.uasset" 1498
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Calender_Clock_Pills.uexp" 1499
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Wall_Clock.uasset" 1500
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Wall_Clock.uexp" 1501
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/scene.uasset" 1502
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/scene.uexp" 1503
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley_normal.ubulk" 1504
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley_normal.uasset" 1505
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley_normal.uexp" 1506
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley_metallicRoughness.ubulk" 1507
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley_metallicRoughness.uasset" 1508
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley_metallicRoughness.uexp" 1509
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley_baseColor.ubulk" 1510
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley_baseColor.uasset" 1511
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley_baseColor.uexp" 1512
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley.uasset" 1513
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Trolley.uexp" 1514
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/trolley1.uasset" 1515
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/trolley1.uexp" 1516
+"../../../Engine/Content/EngineMeshes/BackgroundMaterial.uasset" 1517
+"../../../Engine/Content/EngineMeshes/BackgroundMaterial.uexp" 1518
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Door_D.ubulk" 1519
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Door_D.uasset" 1520
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Door_D.uexp" 1521
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Door_N.ubulk" 1522
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Door_N.uasset" 1523
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Door_N.uexp" 1524
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Door_M.ubulk" 1525
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Door_M.uasset" 1526
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Office_Door_M.uexp" 1527
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Door.uasset" 1528
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Office_Door.uexp" 1529
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Door.uasset" 1530
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Door.uexp" 1531
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Door_N.ubulk" 1532
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Door_N.uasset" 1533
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Door_N.uexp" 1534
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Door_D.ubulk" 1535
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Door_D.uasset" 1536
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Door_D.uexp" 1537
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Door_M.ubulk" 1538
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Door_M.uasset" 1539
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Door_M.uexp" 1540
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Door.uasset" 1541
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Door.uexp" 1542
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Door.uasset" 1543
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Door.uexp" 1544
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Loft_Sofa_base_0.uasset" 1545
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Loft_Sofa_base_0.uexp" 1546
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Side_Table_D.ubulk" 1547
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Side_Table_D.uasset" 1548
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Side_Table_D.uexp" 1549
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Side_Table_M.ubulk" 1550
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Side_Table_M.uasset" 1551
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Side_Table_M.uexp" 1552
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Side_Table_N.ubulk" 1553
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Side_Table_N.uasset" 1554
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Props/T_Side_Table_N.uexp" 1555
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Side_Table.uasset" 1556
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Props/MI_Side_Table.uexp" 1557
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Side_Table.uasset" 1558
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/SM_Side_Table.uexp" 1559
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 1560
+"../../../Engine/Content/TemplateResources/M_Template_Master.uexp" 1561
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray.uasset" 1562
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray.uexp" 1563
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Mantel_M.ubulk" 1564
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Mantel_M.uasset" 1565
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Mantel_M.uexp" 1566
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Mantel_D.ubulk" 1567
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Mantel_D.uasset" 1568
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Mantel_D.uexp" 1569
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Mantel_N.ubulk" 1570
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Mantel_N.uasset" 1571
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Mantel_N.uexp" 1572
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Fireplace_Mantel.uasset" 1573
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Fireplace_Mantel.uexp" 1574
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Fireplace_Mantel.uasset" 1575
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Fireplace_Mantel.uexp" 1576
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Floor_D.ubulk" 1577
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Floor_D.uasset" 1578
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Floor_D.uexp" 1579
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Floor_N.ubulk" 1580
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Floor_N.uasset" 1581
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Floor_N.uexp" 1582
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Floor_M.ubulk" 1583
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Floor_M.uasset" 1584
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Floor_M.uexp" 1585
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Floor.uasset" 1586
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Floor.uexp" 1587
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Floor.uasset" 1588
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Floor.uexp" 1589
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/M_Glow.uasset" 1590
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/M_Glow.uexp" 1591
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Lights_N.ubulk" 1592
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Lights_N.uasset" 1593
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Lights_N.uexp" 1594
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Lights_D.ubulk" 1595
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Lights_D.uasset" 1596
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Lights_D.uexp" 1597
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Lights_M.ubulk" 1598
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Lights_M.uasset" 1599
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Hallway_Lights_M.uexp" 1600
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Lights.uasset" 1601
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Hallway_Lights.uexp" 1602
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Lights.uasset" 1603
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Lights.uexp" 1604
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Maps/DetectiveOffice_Layout_BuiltData.uasset" 1605
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Maps/DetectiveOffice_Layout_BuiltData.uexp" 1606
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Wall_A.uasset" 1607
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Wall_A.uexp" 1608
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Ceiling_Light.uasset" 1609
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Ceiling_Light.uexp" 1610
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Hearth_D.ubulk" 1611
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Hearth_D.uasset" 1612
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Hearth_D.uexp" 1613
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Hearth_M.ubulk" 1614
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Hearth_M.uasset" 1615
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Hearth_M.uexp" 1616
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Hearth_N.ubulk" 1617
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Hearth_N.uasset" 1618
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Textures/Structures/T_Fireplace_Hearth_N.uexp" 1619
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Fireplace_Hearth.uasset" 1620
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Materials/Structure/MI_Fireplace_Hearth.uexp" 1621
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Fireplace_Hearth.uasset" 1622
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Fireplace_Hearth.uexp" 1623
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Wall_B.uasset" 1624
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Hallway_Wall_B.uexp" 1625
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Window_A.uasset" 1626
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Structure/SM_Office_Window_A.uexp" 1627
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border_metallicRoughness.ubulk" 1628
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border_metallicRoughness.uasset" 1629
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border_metallicRoughness.uexp" 1630
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border_baseColor.ubulk" 1631
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border_baseColor.uasset" 1632
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border_baseColor.uexp" 1633
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border_normal.ubulk" 1634
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border_normal.uasset" 1635
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border_normal.uexp" 1636
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border.uasset" 1637
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Border.uexp" 1638
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Mirror_Border_0_fef082fead8970cd769e8caef353cbd6.uasset" 1639
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Mirror_Border_0_fef082fead8970cd769e8caef353cbd6.uexp" 1640
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair_baseColor.ubulk" 1641
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair_baseColor.uasset" 1642
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair_baseColor.uexp" 1643
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair_metallicRoughness.ubulk" 1644
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair_metallicRoughness.uasset" 1645
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair_metallicRoughness.uexp" 1646
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair_normal.ubulk" 1647
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair_normal.uasset" 1648
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair_normal.uexp" 1649
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair.uasset" 1650
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Wheelchair.uexp" 1651
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/rusty.uasset" 1652
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/rusty.uexp" 1653
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Mirror_Border_0.uasset" 1654
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Assets/Meshes/Props/Mirror_Mirror_Border_0.uexp" 1655
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Maps/DetectiveOffice_Layout.uexp" 1656
+"C:/Users/silve/Documents/Unreal Projects/BabaikaGame/Content/DetectiveStart/Maps/DetectiveOffice_Layout.umap" 1657
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1658
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1659
+"../../../Engine/Content/Maps/Entry.uexp" 1660
+"../../../Engine/Content/Maps/Entry.umap" 1661
