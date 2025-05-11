@@ -1,52 +1,35 @@
-# Built-in binaries and cache folders
+# Unreal Engine build artifacts
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 Build/
 
-# Ignore platform-specific build folders (especially Android builds)
+# Platform-specific build folders
 Build/Android/
 Build/IOS/
 
-# Ignore UE autosaves and backups
+# Project files and user settings
 *.sdf
 *.suo
 *.opensdf
 *.VC.db
 *.VC.opendb
-
-# Ignore log files
-*.log
-
-# Ignore config autosaves and local preferences
 *.user
 *.userprefs
+*.autosave
+*.tmp
+*.log
+*.dmp
+*.ufsc
 
-# Mac/Linux system junk
+# Engine-specific temp files
+.vscode/
+*.xcodeproj
+*.xcworkspace
+
+# OS junk
 .DS_Store
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Ignore uproject autosaves
-*.autosave
-
-# Unreal temporary files
-*.tmp
-
-# Ignore generated .xcodeproj files
-*.xcworkspace
-*.xcodeproj
-
-# Crash dumps
-*.dmp
-
-# UFS Cache
-*.ufsc
-
-# Ignore generated plugin project files
-.vscode/
-
-# Ignore compiled shaders
-*.ushaderprecacheIntermediate/ 
